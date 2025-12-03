@@ -35,3 +35,4 @@
 ||vpp.apple.com^
 ||ocsp.apple.com^
 ||crl.apple.com^
+||jamf.build^
