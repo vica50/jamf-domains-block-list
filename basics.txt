@@ -17,12 +17,8 @@
 ||app.launchdarkly.com^
 ||mobile.launchdarkly.com^
 ||clientstream.launchdarkly.com^
-||deviceenrollment.apple.com^
-||mdmenrollment.apple.com^
-||mdmenrollment.apple.com^
 ||jamf.com^
 ||jamfcloud.com^
 ||jamfschool.com^
 ||deviceenrollment.apple.com^
-||mdmenrollment.apple.com^
 ||mdmenrollment.apple.com^
