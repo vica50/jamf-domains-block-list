@@ -1,4 +1,4 @@
-#A list that block most of jamfs servers.
+# A list that block most of jamfs servers and jamf related servers.
 
 ||account.jamf.com^
 ||idpcs.jamf.com^
@@ -17,3 +17,12 @@
 ||app.launchdarkly.com^
 ||mobile.launchdarkly.com^
 ||clientstream.launchdarkly.com^
+||deviceenrollment.apple.com^
+||mdmenrollment.apple.com^
+||mdmenrollment.apple.com^
+||jamf.com^
+||jamfcloud.com^
+||jamfschool.com^
+||deviceenrollment.apple.com^
+||mdmenrollment.apple.com^
+||mdmenrollment.apple.com^
